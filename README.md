@@ -9,7 +9,7 @@ A passionate Software Engineer specializing in Typescript, Golang and Cloud Nati
 
 ---
 
-### 🧰 Technologies
+🧰 Technologies
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="60" height="60"/>
