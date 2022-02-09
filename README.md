@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" /> I am Utkarsh Srivastava</h1>
-<h3 align="center">A passionate Software Engineer specializing in Typescript, Golang and Cloud Native Ecosystem</h3>
+<h3 align="center">A passionate Software Engineer specializing in Typescript, Golang, Rust and Cloud Native Ecosystem</h3>
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=utkarsh-pro&label=Profile%20views&color=0e75b6&style=flat)
