@@ -25,6 +25,6 @@
 
 <h3 align="left">📈 Stats:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarsh-pro&show_icons=true&locale=en&hide=QML,CSS" alt="utkarsh-pro" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarsh-pro&show_icons=true&locale=en&hide=QML,CSS,HTML,Shell,Vim+script" alt="utkarsh-pro" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarsh-pro&show_icons=true&locale=en" alt="utkarsh-pro" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh-pro" alt="utkarsh-pro" /></p>
