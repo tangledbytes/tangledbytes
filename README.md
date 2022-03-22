@@ -10,6 +10,8 @@
 
 - 🌱 I’m currently learning **everything storage engines**
 
+- 📊 I'm a Associate Software Engineer at Red Hat
+
 - 📫 Reach me at **utkarsh@sagacious.dev**
 
 - 📄 Know about my experiences [https://sagacious.dev/resume.pdf](https://sagacious.dev/resume.pdf)
