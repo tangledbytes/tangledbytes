@@ -4,13 +4,15 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/utkarshdev23?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/utkarsh-pro?style=social)
 
+<!---
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkarsh-pro&margin-w=8&margin-h=8&row=1" alt="utkarsh-pro" /></a> </p>
+-->
 
-- 🌱 I’m currently learning **everything storage engines**
+- 🌱 I’m currently learning **everything storage engines and distributed systems**
 
 - 🔨 Working full time on [NooBaa](https://github.com/noobaa/noobaa-core)
 
-- 📊 I'm a Associate Software Engineer at Red Hat
+- 📊 I'm an Associate Software Engineer at Red Hat
 
 - 📫 Reach me at **utkarsh@sagacious.dev**
 
@@ -22,6 +24,7 @@
 <a href="https://linkedin.com/in/utkarsh-srivastava-2310" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarsh-srivastava-2310" height="30" width="40" /></a>
 </p>
 
+<!---
 <h3 align="left">🧰 Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
@@ -76,3 +79,4 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh-pro" alt="utkarsh-pro" />
 </p>
+-->
