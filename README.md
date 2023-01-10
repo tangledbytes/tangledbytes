@@ -12,7 +12,7 @@
 
 - 🔨 Working full time on [NooBaa](https://github.com/noobaa/noobaa-core)
 
-- 📊 I'm an Associate Software Engineer at Red Hat
+- 📊 I'm a Software Engineer @IBM
 
 - 📫 Reach me at **utkarsh@sagacious.dev**
 
