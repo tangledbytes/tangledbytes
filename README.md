@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I am Utkarsh Srivastava</h1>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=utkarsh-pro&label=Profile%20views&color=0e75b6&style=flat)
-![Twitter Follow](https://img.shields.io/twitter/follow/utkarshdev23?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/tangledbytes?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/tangledbytes?style=social)
 
 <!---
