@@ -14,7 +14,7 @@
 
 - 📊 I'm a Software Engineer @IBM
 
-- 📫 Reach me at **utkarsh@sagacious.dev**
+- 📫 Reach me at **utkarsh@tangledbyes.com**
   
 - 🌏 [My Website](https://tangledbytes.com)
 
